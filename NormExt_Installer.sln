@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NormExt_Installer", "NormExt_Installer\NormExt_Installer.vdproj", "{802C693E-0ACF-4628-AD4A-22FCAD8DF53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802C693E-0ACF-4628-AD4A-22FCAD8DF53E}.Debug|Default.ActiveCfg = Debug
+		{802C693E-0ACF-4628-AD4A-22FCAD8DF53E}.Debug|Default.Build.0 = Debug
+		{802C693E-0ACF-4628-AD4A-22FCAD8DF53E}.Release|Default.ActiveCfg = Release
+		{802C693E-0ACF-4628-AD4A-22FCAD8DF53E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
